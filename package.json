@@ -1,0 +1,17 @@
+{
+  "name": "js-audio-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "2.0.1"
+  }
+}
